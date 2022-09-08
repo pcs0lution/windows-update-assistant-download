@@ -1,6 +1,6 @@
 # windows update assistant download
 
-[![windows update assistant download](get-detail.png)](https://github.com/pcs0lution/windows-update-assistant-download)
+[![windows update assistant download](get-detail.png)](https://icncomputer.com/windows-update-assistant/)
 
 
 Features for **[windows update assistant download](https://github.com/pcs0lution/windows-update-assistant-download/)** are constantly being added and updated, and all of them (including major updates) are delivered to your device from the Windows Update page in Settings. Windows will let you know if you need to restart your device to complete an update, and if so you can choose a time that works best for you to complete that update. Also, note the following:
